@@ -1,0 +1,31 @@
+StoreID,StoreName,Company,StreetAddress,LocationID,Neighborhood,City,Province,Latitude,Longitude,Elevation,RewardsProgram
+100,Shoppers Drug Mart,Loblaw Companies,586 Granville St,1001,Downtown,Vancouver,BC,49.283614,-123.116227,35,Shoppers Optimum
+100,Shoppers Drug Mart,Loblaw Companies,1006 Homer St,1002,Downtown,Vancouver,BC,49.277107,-123.120224,19,Shoppers Optimum
+100,Shoppers Drug Mart,Loblaw Companies,2888 Granville St,1003,Fairview,Vancouver,BC,49.260012,-123.138292,57,Shoppers Optimum
+100,Shoppers Drug Mart,Loblaw Companies,1780 W Broadway,1004,Fairview,Vancouver,BC,49.263519,-123.144713,32,Shoppers Optimum
+100,Shoppers Drug Mart,Loblaw Companies,2302 W 4th Ave,1005,Kitsilano,Vancouver,BC,49.26804,-123.157784,38,Shoppers Optimum
+100,Shoppers Drug Mart,Loblaw Companies,1202 W Pender St,1006,Downtown,Vancouver,BC,49.288352,-123.123733,14,Shoppers Optimum
+100,Shoppers Drug Mart,Loblaw Companies,885 W Broadway,1007,Fairview,Vancouver,BC,49.263515,-123.123622,39,Shoppers Optimum
+100,Shoppers Drug Mart,Loblaw Companies,3277 Cambie St,1008,Fairview,Vancouver,BC,49.256761,-123.115326,56,Shoppers Optimum
+100,Shoppers Drug Mart,Loblaw Companies,1295 Seymour St,1009,Downtown,Vancouver,BC,49.275611,-123.126789,24,Shoppers Optimum
+100,Shoppers Drug Mart,Loblaw Companies,748 Burrard St,1010,Downtown,Vancouver,BC,49.2835,-123.122105,40,Shoppers Optimum
+100,Shoppers Drug Mart,Loblaw Companies,1020 Denman St,1011,West End,Vancouver,BC,49.289055,-123.138883,17,Shoppers Optimum
+100,Shoppers Drug Mart,Loblaw Companies,1125 Davie St,1012,West End,Vancouver,BC,49.280946,-123.131582,40,Shoppers Optimum
+100,Shoppers Drug Mart,Loblaw Companies,370 E Broadway,1013,Mount Pleasant,Vancouver,BC,49.262262,-123.097448,44,Shoppers Optimum
+100,Shoppers Drug Mart,Loblaw Companies,3303 Main St,1014,Mount Pleasant,Vancouver,BC,49.255433,-123.10162,56,Shoppers Optimum
+100,Shoppers Drug Mart,Loblaw Companies,2979 W Broadway,1015,Kitsilano,Vancouver,BC,49.264302,-123.17199,22,Shoppers Optimum
+200,Rexall,McKesson Corporation,499 Granville St,2001,Downtown,Vancouver,BC,49.284877,-123.11486,23,Air Miles
+200,Rexall,McKesson Corporation,88 W Pender St #1173,2002,Downtown Eastside,Vancouver,BC,49.279809,-123.106923,16,Air Miles
+200,Rexall,McKesson Corporation,1055 W Georgia St Unit 122,2003,Downtown,Vancouver,BC,49.285145,-123.121882,19,Air Miles
+300,London Drugs,London Drugs,351 Abbott St,3001,Downtown Eastside,Vancouver,BC,49.282424,-123.107941,22,LD Extras
+300,London Drugs,London Drugs,1622 Salt St,3002,Mount Pleasant,Vancouver,BC,49.271259,-123.105867,8,LD Extras
+300,London Drugs,London Drugs,525 W Broadway,3003,Fairview,Vancouver,BC,49.263457,-123.116012,23,LD Extras
+300,London Drugs,London Drugs,2230 W Broadway,3004,Kitsilano,Vancouver,BC,49.263748,-123.156309,46,LD Extras
+300,London Drugs,London Drugs,1650 Davie St,3005,West End,Vancouver,BC,49.285495,-123.139324,29,LD Extras
+300,London Drugs,London Drugs,1187 Robson St,3006,Downtown,Vancouver,BC,49.285874,-123.126495,36,LD Extras
+300,London Drugs,London Drugs,710 Granville St,3007,Downtown,Vancouver,BC,49.282351,-123.118062,24,LD Extras
+400,T&T Supermarket,Loblaw Companies,179 Keefer Pl,4001,Downtown Eastside,Vancouver,BC,49.280062,-123.108353,24,T&T Rewards Card
+500,Save-On-Foods,Overwaitea Food Group,2308 Cambie St,5001,Mount Pleasant,Vancouver,BC,49.264792,-123.114499,23,More Rewards
+500,Save-On-Foods,Overwaitea Food Group,2949 Main St,5002,Mount Pleasant,Vancouver,BC,49.258726,-123.101713,50,More Rewards
+600,Buy-Low Foods,Overwaitea Food Group,370 E Broadway,7001,Mount Pleasant,Vancouver,BC,49.26231,-123.097544,43,More Rewards
+700,Costco,Costco,605 Expo Blvd,8001,Downtown,Vancouver,BC,49.278575,-123.109279,19,Costco Executive Membership
