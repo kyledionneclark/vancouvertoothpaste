@@ -25,7 +25,9 @@ StoreID,StoreName,Company,StreetAddress,LocationID,Neighborhood,City,Province,La
 300,London Drugs,London Drugs,1187 Robson St,3006,Downtown,Vancouver,BC,49.285874,-123.126495,36,LD Extras
 300,London Drugs,London Drugs,710 Granville St,3007,Downtown,Vancouver,BC,49.282351,-123.118062,24,LD Extras
 400,T&T Supermarket,Loblaw Companies,179 Keefer Pl,4001,Downtown Eastside,Vancouver,BC,49.280062,-123.108353,24,T&T Rewards Card
-500,Save-On-Foods,Overwaitea Food Group,2308 Cambie St,5001,Mount Pleasant,Vancouver,BC,49.264792,-123.114499,23,More Rewards
-500,Save-On-Foods,Overwaitea Food Group,2949 Main St,5002,Mount Pleasant,Vancouver,BC,49.258726,-123.101713,50,More Rewards
-600,Buy-Low Foods,Overwaitea Food Group,370 E Broadway,7001,Mount Pleasant,Vancouver,BC,49.26231,-123.097544,43,More Rewards
-700,Costco,Costco,605 Expo Blvd,8001,Downtown,Vancouver,BC,49.278575,-123.109279,19,Costco Executive Membership
+500,Save-On-Foods,Jim Pattison Food Group,2308 Cambie St,5001,Mount Pleasant,Vancouver,BC,49.264792,-123.114499,23,More Rewards
+500,Save-On-Foods,Jim Pattison Food Group,2949 Main St,5002,Mount Pleasant,Vancouver,BC,49.258726,-123.101713,50,More Rewards
+600,Buy-Low Foods,Jim Pattison Food Group,370 E Broadway,6001,Mount Pleasant,Vancouver,BC,49.26231,-123.097544,43,More Rewards
+700,Costco,Costco,605 Expo Blvd,7001,Downtown,Vancouver,BC,49.278575,-123.109279,19,Costco Executive Membership
+800,Nesters Market,Jim Pattison Food Group,333 Abbott St,8001,Downtown Eastside,Vancouver,BC,49.282825,-123.107519,27,Nesters Card
+800,Nesters Market,Jim Pattison Food Group,990 Seymour St,8002,Downtown,Vancouver,BC,49.278587,-123.121576,27,Nesters Card
