@@ -6,7 +6,7 @@ The dataset includes over 100 unique toothpaste products from three major brands
 
 Each toothpaste is broken into its component pieces: master brand, sub-brand, product name and product size. For example, Crest 3D White Arctic Fresh 135 would have Crest as the master brand, 3D White for a sub-brand, Arctic Fresh as the product name and 130ml as the package size. When product size differences are introduced, our dataset grows to 155 unique products. 
 
-Also included is a matrix of functional claims for each of the 112 different toothpastes sold by the major three toothpaste companies in Downtown Vancouver. 
+** To be included is a matrix of functional claims for each of different toothpastes sold by the major three toothpaste companies in Downtown Vancouver. 
 
 ## Geography + Retail Locations
 The sample area extends from MacDonald Street to the West, 16th Ave to the South, Knight St/Clark Drive to the East and Burrard Inlet to the North. This area includes the neighborhoods of Kitsilano, Fairview, Mount Pleasant, Strathcona, Kensington-Cedar Cottage, Downtown Eastside, Downtown, and the West End. GeoJSON files are provided to map the sample area as well as individual neighborhoods. DowntownMetro.json is the total sample area and each neighborhood has their own file.
