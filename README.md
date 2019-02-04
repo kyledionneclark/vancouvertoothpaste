@@ -9,9 +9,7 @@ Each toothpaste is broken into its component pieces: master brand, sub-brand, pr
 Also included is a matrix of functional claims for each of the 112 different toothpastes sold by the major three toothpaste companies in Downtown Vancouver. 
 
 ## Geography + Retail Locations
-The sample area extends from MacDonald Street to the West, 16th Ave to the South, Knight St/Clark Drive to the East and Burrard Inlet to the North. This area includes the neighborhoods of Kitsilano, Fairview, Mount Pleasant, Strathcona, Kensington-Cedar Cottage, Downtown Eastside, Downtown, and the West End. 
-
-* A GeoJSON file to be provided to map the sample area as well as individual neighborhoods.
+The sample area extends from MacDonald Street to the West, 16th Ave to the South, Knight St/Clark Drive to the East and Burrard Inlet to the North. This area includes the neighborhoods of Kitsilano, Fairview, Mount Pleasant, Strathcona, Kensington-Cedar Cottage, Downtown Eastside, Downtown, and the West End. GeoJSON files are provided to map the sample area as well as individual neighborhoods. DowntownMetro.json is the total sample area and each neighborhood has their own file.
 
 The sample includes information from 8* retail chains that sell toothpaste and operate around Downtown Vancouver. These chains are (#locations): Shoppers Drug Mart(15), Rexall(3), London Drugs(7), T&T Supermarket(1), Save-On-Foods(2), Buy-Low Foods(1), Costco(1) and Nesters Market(2). A CSV file is provided  containing a store ID, store name, parent company, street address, location ID, latitude, longitude, elevation and rewards program information. 
 
